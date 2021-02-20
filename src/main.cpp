@@ -35,8 +35,8 @@
 #include <boost/property_tree/ptree.hpp>
 #include <boost/property_tree/ini_parser.hpp>
 
-#include <xdrfile/xdrfile.h>
-#include <xdrfile/xdrfile_xtc.h>
+#include <xdrfile.h>
+#include <xdrfile_xtc.h>
 
 #include <iostream>
 #include "omp.h"

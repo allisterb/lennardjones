@@ -29,8 +29,8 @@
 #ifndef CUBICBOX_H
 #define CUBICBOX_H
 
-#include "gmxcpp/coordinates.h"
-#include "gmxcpp/xdrfile.h"
+#include "coordinates.h"
+#include "xdrfile.h"
 #include <vector>
 using namespace std;
 
