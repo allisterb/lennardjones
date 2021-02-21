@@ -764,7 +764,7 @@ int main(int argc, char *argv[])
     
     #pragma omp parallel
     #pragma omp master
-    cout << "Using " << omp_get_num_threads() << " OpenMP threads." << endl;
+    //cout << "Using " << omp_get_num_threads() << " OpenMP threads." << endl;
 
     cout << endl;
 
